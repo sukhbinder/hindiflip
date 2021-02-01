@@ -1,0 +1,16 @@
+question,answer,num,active
+sound/a_1.mp3,img/v1.png,7,True
+sound/aa_2.mp3,img/v2.png,7,True
+sound/i_3.mp3,img/v3.png,7,True
+sound/ii_4.mp3,img/v4.png,6,True
+sound/u_5.mp3,img/v5.png,7,True
+sound/uu_6.mp3,img/v6.png,6,True
+sound/ru_7.mp3,img/v7.png,8,True
+sound/e_8.mp3,img/v9.png,7,True
+sound/ee_9.mp3,img/v10.png,7,True
+sound/ai_10.mp3,img/v11.png,7,True
+sound/o_11.mp3,img/v12.png,7,True
+sound/oo_12.mp3,img/v13.png,7,True
+sound/au_13.mp3,img/v14.png,7,True
+sound/am_14.mp3,img/v15.png,4,True
+sound/ah_15.mp3,img/v16.png,8,True

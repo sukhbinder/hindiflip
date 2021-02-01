@@ -1,0 +1,16 @@
+id,question,answer,due_date,num,active
+0,sound/a_1.mp3,img/v1.png,2020-10-09 15:39:19.515603,1,True
+1,sound/aa_2.mp3,img/v2.png,2020-10-09 15:39:19.515603,1,True
+2,sound/i_3.mp3,img/v3.png,2020-10-09 12:41:19.515603,0,True
+3,sound/ii_4.mp3,img/v4.png,2020-10-09 12:41:19.515603,0,True
+4,sound/u_5.mp3,img/v5.png,2020-10-09 12:41:19.515603,0,True
+5,sound/uu_6.mp3,img/v6.png,2020-10-09 12:41:19.515603,0,True
+6,sound/ru_7.mp3,img/v7.png,2020-10-09 12:41:19.515603,0,True
+7,sound/e_8.mp3,img/v9.png,2020-10-09 12:41:19.515603,0,True
+8,sound/ee_9.mp3,img/v10.png,2020-10-09 12:41:19.515603,0,True
+9,sound/ai_10.mp3,img/v11.png,2020-10-09 12:41:19.515603,0,True
+10,sound/o_11.mp3,img/v12.png,2020-10-09 12:41:19.515603,0,True
+11,sound/oo_12.mp3,img/v13.png,2020-10-09 12:41:19.515603,0,True
+12,sound/au_13.mp3,img/v14.png,2020-10-09 12:41:19.515603,0,True
+13,sound/am_14.mp3,img/v15.png,2020-10-09 12:41:19.515603,0,True
+14,sound/ah_15.mp3,img/v16.png,2020-10-09 12:41:19.515603,0,True
